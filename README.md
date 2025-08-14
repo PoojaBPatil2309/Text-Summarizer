@@ -12,6 +12,6 @@ It takes long passages of text and generates concise summaries in seconds.
 ## 📌 Features
 - Summarizes large chunks of text in seconds.
 - Uses pre-trained Hugging Face models for high-quality summaries.
-- Simple, interactive UI (built with Gradio/Streamlit).
+- Simple, interactive UI (built with Gradio).
 - Works entirely in the browser — no installation required for demo.
 
